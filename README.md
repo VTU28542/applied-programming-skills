@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/VTU28542/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/VTU28542/applied-programming-skills/tree/master/0704-binary-search) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU28542/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Math
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU28542/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/VTU28542/applied-programming-skills/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
